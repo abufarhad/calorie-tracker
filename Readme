@@ -1,0 +1,8 @@
+# Create a web app using Django that tracks calorie intake and consumption.
+
+## Run the server
+```python
+ python manage.py runserver 
+```
+# Utilized 
+ Django, Python, BootStrap, HTML, Javascript, CSS
