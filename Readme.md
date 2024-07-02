@@ -1,4 +1,4 @@
-# Create a web app using Django that tracks calorie intake and consumption.
+# A web app using Django that tracks calorie intake and consumption.
 
 ## Run the server
 ```python
